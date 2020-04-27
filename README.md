@@ -13,6 +13,7 @@ Notes about learning Linux and bash etc
 
 ### Git  
 `$ git clone https://github.com/user-name/repository-name.git`  Clone a repository  
+`$ git remote add origin 'your_url_name'` Set origin to GitHub  
 `$ git add .` add all at pwd  
 `$ git commit -m "This is a message"` commit changes  
 `$ git push origin master`   
