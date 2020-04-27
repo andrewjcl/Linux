@@ -11,11 +11,11 @@ Notes about learning Linux and bash etc
 
 
 
-### Git
-`$ git clone https://github.com/user-name/repository-name.git`  Clone a repository
-`$ git add .` add all at pwd
-`$ git commit -m "This is a message"` commit changes
-`$ git push origin master` 
-`$ git status`
-`$ git log`
+### Git  
+`$ git clone https://github.com/user-name/repository-name.git`  Clone a repository  
+`$ git add .` add all at pwd  
+`$ git commit -m "This is a message"` commit changes  
+`$ git push origin master`   
+`$ git status`  
+`$ git log`  
 
