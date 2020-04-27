@@ -5,9 +5,6 @@ Notes about learning Linux and bash etc
 
 ### Bash
 
-Check if git ssh get exists
-```bash
-$ ls ~/.ssh/id_rsa.pub
-```
-Kill firefox
-`bash $ pkill firefox`
+`$ ls ~/.ssh/id_rsa.pub` Check if git ssh get exists
+
+`$ pkill firefox` Kill firefox
