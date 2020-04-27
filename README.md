@@ -9,3 +9,5 @@ Check if git ssh get exists
 ```bash
 $ ls ~/.ssh/id_rsa.pub
 ```
+Kill firefox
+`bash $ pkill firefox`
